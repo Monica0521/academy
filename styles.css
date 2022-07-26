@@ -1,0 +1,63 @@
+body {  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form {
+    
+    border-radius: 5px;
+    box-shadow: 4px 4px 14px rgb(37, 37, 172);
+    margin: 50px;
+}
+.inferno li{
+    background-color: blueviolet;
+   color: rgb(14, 13, 17);
+   margin: 30px; 
+   text-decoration:underline;
+   padding: 15px;
+   border: 3px solid rgb(17, 17, 124);
+   border-radius: 10px;
+} 
+.unit h1 {
+    margin: 50px;   
+}
+.unit h3 {
+    margin: 50px;   
+}  
+.unit p {
+    margin: 50px; 
+}
+.unit  h2 {
+    margin: 50px;
+}
+.akita h2 {
+    margin: 50px;    
+}
+.akita td {
+    margin: 50px; 
+}
+.akita table {
+    margin: 50px;
+}
+.akita label{
+    margin: 50px;
+}
+.akita input {
+    margin: 50px;
+}
+.akita {
+    background-color: blueviolet;
+    padding: 15px;
+}
+.unit {
+    background-color: blueviolet;
+    padding: 15px;
+}
+.inferno {
+    width: 50%;
+}
+.table {
+    width: 100%;
+
+}
+.table {
+    padding-bottom: 10px;
+}
